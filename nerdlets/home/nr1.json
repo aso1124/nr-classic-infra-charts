@@ -1,0 +1,14 @@
+{
+  "schemaType": "NERDLET",
+  "id": "nr-infra-classic",
+  "displayName": "Classic Infra Charts",
+  "description": "A recreation of the classic APM Infra charts",
+  "context": {
+    "entities": [
+      {
+        "domain": "APM",
+        "type": "APPLICATION"
+      }
+    ]
+  }
+}
